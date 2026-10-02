@@ -1,0 +1,20 @@
+# Core
+torch>=2.2
+torchvision>=0.17
+timm>=0.9
+
+# Data + metrics
+numpy
+pandas
+Pillow
+scikit-learn
+matplotlib
+seaborn
+imagehash
+tqdm
+opencv-python-headless
+
+# App
+streamlit
+folium
+streamlit-folium
